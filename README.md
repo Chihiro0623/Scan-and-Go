@@ -19,7 +19,7 @@ LED
 [Report](https://github.com/Chihiro0623/Scan-and-Go/blob/main/3%EC%A1%B0%20%EC%97%B4%EC%A0%95%ED%8C%8C%EC%9D%B4%20%EC%B5%9C%EC%A2%85%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)  
 [Presentation](https://github.com/Chihiro0623/Scan-and-Go/blob/main/3%EC%A1%B0%20%EC%97%B4%EC%A0%95%ED%8C%8C%EC%9D%B4%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pptx)  
 [Collaborating Sheet](https://github.com/Chihiro0623/Scan-and-Go/blob/main/3%EC%A1%B0%20%EC%97%B4%EC%A0%95%ED%8C%8C%EC%9D%B4%20%ED%98%91%EC%97%85%20%EC%8B%9C%ED%94%84%EB%A0%88%EB%93%9C%20%EC%8B%9C%ED%8A%B8.xlsx)  
-
+[Code](https://github.com/Chihiro0623/Scan-and-Go/tree/main/src)
 
 ![1](https://github.com/Chihiro0623/Scan-and-Go/blob/main/img/1.png)
 ![2](https://github.com/Chihiro0623/Scan-and-Go/blob/main/img/2.png)
